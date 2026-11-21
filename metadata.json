@@ -1,0 +1,8 @@
+{
+  "name": "nothing",
+  "description": "The simplest browser ever made for Android and web: one search bar, Gecko engine, zero login, zero setup, zero settings, zero tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
